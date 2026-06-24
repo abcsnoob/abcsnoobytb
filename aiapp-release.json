@@ -1,5 +1,12 @@
 {
   "versions": [
+        {
+      "version": "v2.0.0",
+      "downloads": {
+        "linux": "https://github.com/abcsnoob/aichatapp/releases/download/v2.0.0/chat-electron-app-2.0.0.tar.gz",
+        "windows": "https://github.com/abcsnoob/aichatapp/releases/download/v2.0.0/ChatApp.Setup.2.0.0.exe"
+      }
+    },
     {
       "version": "v1.0.9",
       "downloads": {
@@ -7,13 +14,6 @@
         "macos": "https://github.com/abcsnoob/aichatapp/releases/download/v1.0.9/abcsnoob-macos.zip",
         "linux": "https://github.com/abcsnoob/aichatapp/releases/download/v1.0.9/abcsnoob-linux.tar.gz",
         "windows": "https://github.com/abcsnoob/aichatapp/releases/download/v1.0.9/abcsnoob-windows.zip"
-      }
-    },
-    {
-      "version": "v2.0.0",
-      "downloads": {
-        "linux": "https://github.com/abcsnoob/aichatapp/releases/download/v2.0.0/chat-electron-app-2.0.0.tar.gz",
-        "windows": "https://github.com/abcsnoob/aichatapp/releases/download/v2.0.0/ChatApp.Setup.2.0.0.exe"
       }
     }
   ]
