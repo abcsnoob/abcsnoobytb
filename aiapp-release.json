@@ -8,7 +8,7 @@
         "linux": "https://github.com/abcsnoob/aichatapp/releases/download/v1.0.9/abcsnoob-linux.tar.gz",
         "windows": "https://github.com/abcsnoob/aichatapp/releases/download/v1.0.9/abcsnoob-windows.zip"
       }
-    }
+    },
     {
       "version": "v2.0.0",
       "downloads": {
